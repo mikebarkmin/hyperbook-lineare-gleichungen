@@ -9,7 +9,8 @@
   "license": "CC-BY-SA",
   "language": "de",
   "colors": {
-    "brand": "#b0ff82"
+    "brand": "#64b933",
+    "brandDark": "#b0ff82"
   },
   "basePath": "/hyperbook-lineare-gleichungen",
   "links": [{
