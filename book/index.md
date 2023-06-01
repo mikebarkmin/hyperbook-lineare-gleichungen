@@ -1,9 +1,8 @@
 ---
-name: Getting Started
+name: Einführung
+lang: de
 ---
 
-## Getting Started
+## Einführung
 
-This is created with :t[hyperbook].
-
-![Actual test image of jelly beans from the USC-SIPI image database.](/images/SIPI_Jelly_Beans_4.1.07.jpg)
+Zur Dokumentation deines Lernprozesses sollst du die Aufgaben des Lernpfades in einer Mappe oder einem Heft nachvollziehbar aufschreiben. Deine Aufzeichnungen werden am Ende der Unterrichtssequenz eingesammelt.

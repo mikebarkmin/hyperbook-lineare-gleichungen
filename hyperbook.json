@@ -1,12 +1,20 @@
 {
-  "name": "Hyperbook GitHub Pages",
+  "name": "Lernpfad - Lineare Gleichungen",
   "version": "0.0.1",
-  "description": "This is an example for deploying Hyperbook on GitHub pages",
+  "description": "",
   "author": {
     "name": "Mike Barkmin",
     "url": "https://barkmin.eu"
   },
   "license": "CC-BY-SA",
-  "language": "en",
-  "basePath": "/hyperbook-github-pages"
+  "language": "de",
+  "colors": {
+    "brand": "#b0ff82"
+  },
+  "basePath": "/hyperbook-lineare-gleichungen",
+  "links": [{
+    "href": "/glossary",
+    "label": "Glossar",
+    "icon": "📖"
+  }]
 }
