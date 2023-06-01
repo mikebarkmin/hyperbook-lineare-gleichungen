@@ -31,6 +31,14 @@ Beispiel: :t[Term]
 
 # Elemente
 
+## Phet
+
+[Phet Simulation](https://phet.colorado.edu/de/simulations/filter?subjects=math&type=html,prototype)
+
+- https://phet.colorado.edu/de/simulations/equality-explorer
+
+::iframe{src="https://phet.colorado.edu/sims/html/equality-explorer-basics/latest/equality-explorer-basics_all.html?locale=de" width="100%" height="400px"}
+
 ## GeoGebra Applet
 
 ::iframe{src="https://www.geogebra.org/material/iframe/id/tcCEEyFT/width/700/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/true/ld/false/sdz/true/ctl/false" width="100%" height="400px"}
